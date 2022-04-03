@@ -1,0 +1,125 @@
+2022-04-01 10:55:45,343 - nopCommerce -INFO - Url is Opened
+2022-04-01 10:55:48,115 - nopCommerce -INFO - entered email
+2022-04-01 10:55:48,449 - nopCommerce -INFO - entered password
+2022-04-01 10:56:23,570 - nopCommerce -INFO - Clicked login
+2022-04-01 10:56:23,711 - nopCommerce -INFO - title matched
+2022-04-01 15:18:57,624 - nopCommerce -INFO - Url is Opened
+2022-04-01 15:18:58,110 - nopCommerce -INFO - entered email
+2022-04-01 15:18:58,271 - nopCommerce -INFO - entered password
+2022-04-01 15:19:06,771 - nopCommerce -INFO - Clicked login
+2022-04-01 15:19:06,783 - nopCommerce -INFO - title matched
+2022-04-01 15:19:09,535 - nopCommerce -INFO - login is Passes
+2022-04-01 15:36:01,231 - nopCommerce -INFO - Url is Opened
+2022-04-01 15:36:02,401 - nopCommerce -INFO - entered email
+2022-04-01 15:36:02,566 - nopCommerce -INFO - entered password
+2022-04-01 15:36:12,448 - nopCommerce -INFO - Clicked login
+2022-04-01 15:36:12,498 - nopCommerce -INFO - title matched
+2022-04-01 15:36:14,963 - nopCommerce -INFO - login is Passes
+2022-04-01 15:37:34,184 - nopCommerce -INFO - Url is Opened
+2022-04-01 15:37:34,502 - nopCommerce -INFO - entered email
+2022-04-01 15:37:34,676 - nopCommerce -INFO - entered password
+2022-04-01 15:37:45,533 - nopCommerce -INFO - Clicked login
+2022-04-01 15:37:45,589 - nopCommerce -INFO - title matched
+2022-04-01 15:37:48,410 - nopCommerce -INFO - login is Passes
+2022-04-01 15:41:46,298 - nopCommerce -INFO - Url is Opened
+2022-04-01 15:41:47,895 - nopCommerce -INFO - entered email
+2022-04-01 15:41:48,082 - nopCommerce -INFO - entered password
+2022-04-01 15:41:57,380 - nopCommerce -INFO - Clicked login
+2022-04-01 15:41:57,404 - nopCommerce -INFO - title matched
+2022-04-01 15:41:59,648 - nopCommerce -INFO - login is Passes
+2022-04-01 15:42:45,939 - nopCommerce -INFO - Url is Opened
+2022-04-01 15:42:46,232 - nopCommerce -INFO - entered email
+2022-04-01 15:42:46,470 - nopCommerce -INFO - entered password
+2022-04-01 15:42:52,707 - nopCommerce -INFO - Clicked login
+2022-04-01 15:42:52,727 - nopCommerce -INFO - title matched
+2022-04-01 15:42:54,896 - nopCommerce -INFO - login is Passes
+2022-04-01 16:24:07,068 - nopCommerce -INFO - Url is Opened
+2022-04-01 16:24:08,316 - nopCommerce -INFO - entered email
+2022-04-01 16:24:08,553 - nopCommerce -INFO - entered password
+2022-04-01 16:24:18,752 - nopCommerce -INFO - Clicked login
+2022-04-01 16:24:18,826 - nopCommerce -INFO - title matched
+2022-04-01 18:14:56,963 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:14:57,706 - nopCommerce -INFO - entered email
+2022-04-01 18:14:57,896 - nopCommerce -INFO - entered password
+2022-04-01 18:15:06,308 - nopCommerce -INFO - Clicked login
+2022-04-01 18:15:07,405 - nopCommerce -INFO - Test case failed
+2022-04-01 18:22:42,608 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:22:43,554 - nopCommerce -INFO - entered email
+2022-04-01 18:22:43,745 - nopCommerce -INFO - entered password
+2022-04-01 18:22:53,397 - nopCommerce -INFO - Clicked login
+2022-04-01 18:22:53,455 - nopCommerce -INFO - title matched
+2022-04-01 18:22:55,970 - nopCommerce -INFO - login is Passes
+2022-04-01 18:22:56,956 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:22:57,207 - nopCommerce -INFO - entered email
+2022-04-01 18:22:57,361 - nopCommerce -INFO - entered password
+2022-04-01 18:22:58,149 - nopCommerce -INFO - Clicked login
+2022-04-01 18:22:58,162 - nopCommerce -INFO - Test case failed
+2022-04-01 18:22:58,970 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:22:59,179 - nopCommerce -INFO - entered email
+2022-04-01 18:22:59,371 - nopCommerce -INFO - entered password
+2022-04-01 18:23:00,045 - nopCommerce -INFO - Clicked login
+2022-04-01 18:23:00,067 - nopCommerce -INFO - Test case failed
+2022-04-01 18:23:00,648 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:23:00,837 - nopCommerce -INFO - entered email
+2022-04-01 18:23:01,013 - nopCommerce -INFO - entered password
+2022-04-01 18:23:01,707 - nopCommerce -INFO - Clicked login
+2022-04-01 18:23:01,727 - nopCommerce -INFO - Test case failed
+2022-04-01 18:24:20,319 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:24:21,059 - nopCommerce -INFO - entered email
+2022-04-01 18:24:21,389 - nopCommerce -INFO - entered password
+2022-04-01 18:24:27,942 - nopCommerce -INFO - Clicked login
+2022-04-01 18:24:28,562 - nopCommerce -INFO - Test case failed
+2022-04-01 18:24:51,099 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:24:51,323 - nopCommerce -INFO - entered email
+2022-04-01 18:24:51,484 - nopCommerce -INFO - entered password
+2022-04-01 18:25:00,385 - nopCommerce -INFO - Clicked login
+2022-04-01 18:25:00,660 - nopCommerce -INFO - title matched
+2022-04-01 18:25:04,220 - nopCommerce -INFO - login is Passes
+2022-04-01 18:25:05,190 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:25:05,605 - nopCommerce -INFO - entered email
+2022-04-01 18:25:05,835 - nopCommerce -INFO - entered password
+2022-04-01 18:25:06,554 - nopCommerce -INFO - Clicked login
+2022-04-01 18:25:06,572 - nopCommerce -INFO - Test case failed
+2022-04-01 18:25:07,411 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:25:07,617 - nopCommerce -INFO - entered email
+2022-04-01 18:25:07,779 - nopCommerce -INFO - entered password
+2022-04-01 18:25:08,735 - nopCommerce -INFO - Clicked login
+2022-04-01 18:25:08,757 - nopCommerce -INFO - Test case failed
+2022-04-01 18:25:09,366 - nopCommerce -INFO - Url is Opened
+2022-04-01 18:25:09,562 - nopCommerce -INFO - entered email
+2022-04-01 18:25:09,742 - nopCommerce -INFO - entered password
+2022-04-01 18:25:10,387 - nopCommerce -INFO - Clicked login
+2022-04-01 18:25:10,408 - nopCommerce -INFO - Test case failed
+2022-04-01 19:51:43,105 - nopCommerce -INFO - Url is Opened
+2022-04-01 19:51:46,807 - nopCommerce -INFO - entered email
+2022-04-01 19:51:47,002 - nopCommerce -INFO - entered password
+2022-04-01 19:51:55,325 - nopCommerce -INFO - Clicked login
+2022-04-01 19:51:55,340 - nopCommerce -INFO - title matched
+2022-04-01 19:51:57,736 - nopCommerce -INFO - login is Passes
+2022-04-01 19:52:38,352 - nopCommerce -INFO - Url is Opened
+2022-04-01 19:52:38,667 - nopCommerce -INFO - entered email
+2022-04-01 19:52:38,883 - nopCommerce -INFO - entered password
+2022-04-01 19:52:45,674 - nopCommerce -INFO - Clicked login
+2022-04-01 19:52:45,768 - nopCommerce -INFO - title matched
+2022-04-01 19:52:49,084 - nopCommerce -INFO - login is Passes
+2022-04-01 19:52:49,998 - nopCommerce -INFO - Url is Opened
+2022-04-01 19:52:50,185 - nopCommerce -INFO - entered email
+2022-04-01 19:52:50,456 - nopCommerce -INFO - entered password
+2022-04-01 19:52:51,222 - nopCommerce -INFO - Clicked login
+2022-04-01 19:52:51,249 - nopCommerce -INFO - Test case failed
+2022-04-01 19:52:52,413 - nopCommerce -INFO - Url is Opened
+2022-04-01 19:52:52,676 - nopCommerce -INFO - entered email
+2022-04-01 19:52:52,829 - nopCommerce -INFO - entered password
+2022-04-01 19:52:55,441 - nopCommerce -INFO - Clicked login
+2022-04-01 19:52:55,456 - nopCommerce -INFO - Test case failed
+2022-04-01 19:52:56,110 - nopCommerce -INFO - Url is Opened
+2022-04-01 19:52:56,326 - nopCommerce -INFO - entered email
+2022-04-01 19:52:56,507 - nopCommerce -INFO - entered password
+2022-04-01 19:52:57,179 - nopCommerce -INFO - Clicked login
+2022-04-01 19:52:57,194 - nopCommerce -INFO - Test case failed
+2022-04-01 19:53:56,336 - nopCommerce -INFO - User name is provided
+2022-04-01 19:53:56,534 - nopCommerce -INFO - password is provided
+2022-04-01 19:54:02,390 - nopCommerce -INFO - providing customer details....
+2022-04-01 19:56:12,700 - nopCommerce -INFO - User name is provided
+2022-04-01 19:56:12,880 - nopCommerce -INFO - password is provided
+2022-04-01 19:56:20,240 - nopCommerce -INFO - providing customer details....
